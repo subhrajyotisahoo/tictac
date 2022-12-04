@@ -6,13 +6,13 @@ This is a simple implementation of the Tic-Tac-Toe game in Java. It allows two p
 
 To run the game, clone the repository and compile the `TicTacToe.java` file with the following command:
 
-```
+```java
 javac TicTacToe.java
 ```
 
 Then, run the compiled class file with the following command:
 
-```
+```java
 java TicTacToe
 ```
 
